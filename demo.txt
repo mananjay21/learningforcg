@@ -5,11 +5,4 @@ initial
 
 Hello mananjay
 now i am testing file here 
-Hello mananjay
-Hello mananjay
-Hello mananjay
-Hello mananjay
-
-:wq
-:wq
 
